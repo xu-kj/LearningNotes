@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "eg2.vscode-npm-script",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "ms-vscode.csharp",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+    ]
+}
